@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamster005
+- 👋 Hi, I’m James Slone
 - 👀 I’m interested in Video Editing!
 - 🌱 I’m currently learning Batch scripts
 - 💞️ I’m looking to collaborate on videos
